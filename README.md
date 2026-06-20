@@ -15,7 +15,8 @@ python todolist1.py
 - Git
 - GitHub
 
-  ## Sample Output
+## Sample Output
+```text
 1. Add Task
 2. View Tasks
 3. Exit
