@@ -8,9 +8,7 @@ A simple command-line To-Do List application built in Python.
 - Exit the program
 
 ## How to Run
-```bash
 python todolist1.py
-
 
 ## Tech Used
 - Python
