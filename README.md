@@ -3,14 +3,15 @@
 A simple command-line To-Do List application built in Python.
 
 ## Features
--Add tasks
--View tasks
--Exit the program
+- Add tasks
+- View tasks
+- Exit the program
 
 ## How to Run
+```bash
 python todolist1.py
 
 ## Tech Used
--python
--Git
--Github
+•Python 
+•Git 
+•GitHub
