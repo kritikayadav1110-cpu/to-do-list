@@ -11,7 +11,8 @@ A simple command-line To-Do List application built in Python.
 ```bash
 python todolist1.py
 
+
 ## Tech Used
-•Python 
-•Git 
-•GitHub
+- Python
+- Git
+- GitHub
